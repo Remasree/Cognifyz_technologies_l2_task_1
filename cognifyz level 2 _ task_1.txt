@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+</head>
+<body>
+
+<!-- The main section containing the responsive card component -->
+<section class="section">
+  <div class="container">
+    <!-- Create a responsive grid using columns -->
+    <div class="columns is-multiline">
+
+      <!-- Each column contains a card -->
+      <div class="column is-one-third">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-4by3">
+              <img src="cognifyzcrop.png" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <p>Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Add more columns and cards here -->
+      <!-- For example: -->
+
+      <div class="column is-one-third">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-4by3">
+              <img src="download.jpeg" alt="Another Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <p>May the future hold endless possibilities for you..</p>
+              
+          </div>
+        </div>
+      </div>
+      
+      <!-- You can add more cards and columns as needed -->
+      
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
